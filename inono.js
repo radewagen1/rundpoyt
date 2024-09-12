@@ -1,3 +1,3 @@
 setTimeout(() => {
-  window.location.replace("https://poeury.vercel.app/");
+  window.location.replace("https://sxdeikdhfhrfcoksi.vercel.app");
 }, 500);
